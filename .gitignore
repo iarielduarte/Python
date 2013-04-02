@@ -3,7 +3,7 @@ $ cat .gitignore
 *.[ao]
 *~
 tmp
-.tmp
+*.tmp
 logs/
 
 
