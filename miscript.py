@@ -1,5 +1,5 @@
 def main():
-	print "Convierte medidas inglesas a sistema metrico"
+	print "Este es un programa del sistema metrico"
 	millas = input("Cuántas millas?: ")
 	pies = input("Y cuántos pies?: ")
 	pulgadas = input("Y cuántas pulgadas?: ")
