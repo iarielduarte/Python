@@ -1,8 +1,11 @@
+# Git deberia ignorar todo estos patrones
 $ cat .gitignore
 *.[ao]
 *~
-*.[temp]
-C:\projectpython\logs
+tmp
+.tmp
+logs/
+
 
 
 
